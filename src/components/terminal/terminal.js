@@ -5,10 +5,9 @@ import Text from './text';
 
 function Terminal() {
   const params = useSpring({
-    opacity: 1, from: {opacity: 0},
-    transform: 'translate3d(0,0,0)', from: { transform: 'translate3d(0,40px,0)' }
-
+    opacity: 1, from: {opacity: 0}
   })
+  
   return <animated.div style={params}>
     <div>
       <div className="terminal-head">

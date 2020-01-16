@@ -1,7 +1,9 @@
 import Typing from 'react-typing-animation';
 import './text.scss'
 import React from 'react';
-//http://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=murmuroffbeat&api_key=1650d775b3cb99abfe8d0a918bbd76c7&format=json
+
+
+
 function Text() {
   const myFunction = () => {
     var x = document.getElementById("result");
@@ -19,7 +21,7 @@ function Text() {
           <br/>
           <span className="projects">> Education:</span> "M.Sc. Student at Faculty of Engineering LTH"
           <br/>
-          <span className="projects">> CV:</span> "<a href="">filip_ahfelt_CV.pdf</a>"
+          <span className="projects">> CV:</span> "<a href="/#">filip_ahfelt_CV.pdf</a>"
           <br/>
           <span className="projects">> Interests:</span> ["Music", "Design", "Nature"]
           <br />
