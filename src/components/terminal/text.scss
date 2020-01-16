@@ -2,7 +2,7 @@
     .text {
         padding: 1em;
         padding-top: 0.5em;
-        font-size: 1.2em;
+        font-size: 1rem;
         color: #eceff4;
         font-family: Monospace
         }
@@ -24,4 +24,7 @@
         }
         @keyframes blinker {
         50%{ opacity: 0;}
+        }
+        .ascii-art{
+            white-space: pre;
         }
