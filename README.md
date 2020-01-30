@@ -15,8 +15,9 @@
 
 ## Features
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Clean up/Abstraction
+* Add CV link
+* Store data in JSON
 
 ## Status
 Portfolio is deployed and [live!](https://www.filipahfelt.se/)
