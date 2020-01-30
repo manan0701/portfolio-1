@@ -5,7 +5,7 @@ import Text from './text';
 
 function Terminal() {
   const params = useSpring({
-    opacity: 1, from: {opacity: 0}
+    marginTop: 0, from: {marginTop: 200}
   })
   
   return <animated.div style={params}>
