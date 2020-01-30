@@ -1,5 +1,5 @@
 # filipahfelt.se
-> Personal webiste
+> Personal website
 
 ## Screenshots
 ![Example screenshot](Screenshot.png)
