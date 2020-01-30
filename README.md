@@ -20,7 +20,7 @@ To-do list:
 * Store data in JSON
 
 ## Status
-Portfolio is deployed and [live!](https://www.filipahfelt.se/)
+Portfolio is [live!](https://www.filipahfelt.se/)
 
 ## Inspiration
 Project inspired by [@vai0](https://github.com/vai0/portfolio).
