@@ -19,10 +19,6 @@ function Text() {
         <span className="projects">> Current location:</span> "Lund, Sweden"
           <br/>
           <span className="projects">> Education:</span> "M.Sc. Student at Faculty of Engineering LTH"
-          {
-            //<br/>
-            //<span className="projects">> CV:</span> "<a href="/#">filip_ahfelt_CV.pdf</a>"
-          }
           <br/>
           <span className="projects">> Interests:</span> ["Music", "Design", "Nature"]
           <br />

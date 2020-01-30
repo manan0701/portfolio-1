@@ -7,13 +7,11 @@ import './App.scss'
 
 function App() {
   return (
-    <div>
     <div className="container">
         <Title />
         <Terminal />
         <Projects />
     </div>
-</div>
   );
 }
 
