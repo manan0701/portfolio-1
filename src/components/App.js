@@ -1,7 +1,7 @@
 import React from 'react';
-import Title from './title/title'
-import Terminal from './terminal/terminal'
-import Projects from './projects/projects'
+import Title from './title'
+import Terminal from './terminal'
+import Projects from './projects/'
 import './App.scss'
 
 
