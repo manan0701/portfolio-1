@@ -30,8 +30,11 @@ function Timeline() {
             {x.tech}
           </h4>
           <p>{x.desc}</p>
+          <a href={x.demo} target="_blank" rel="noopener noreferrer">
+            <button className="button button1">Demo</button>
+          </a>
           <a href={x.source} target="_blank" rel="noopener noreferrer">
-            <button className="button button1">View Source</button>
+            <button className="button button2">Source</button>
           </a>
         </VerticalTimelineElement>
       ))}
