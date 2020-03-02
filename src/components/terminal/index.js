@@ -12,13 +12,13 @@ function Terminal() {
   return (
     <animated.div style={params}>
       <div>
-        <div className="terminal-head">
-          <div className="min"></div>
-          <div className="max"></div>
-          <div className="close"></div>
+        <div className='terminal-head'>
+          <div className='min'></div>
+          <div className='max'></div>
+          <div className='close'></div>
         </div>
-        <div className="card">
-          <div className="text">
+        <div className='card'>
+          <div className='text'>
             <Text />
           </div>
         </div>

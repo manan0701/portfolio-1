@@ -5,7 +5,7 @@ import Timeline from "./timeline";
 function Projects() {
   return (
     <div>
-      <div className="title">
+      <div className='title'>
         <h2>Side Projects</h2>
       </div>
       <Timeline />
