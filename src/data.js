@@ -2,7 +2,7 @@ export default {
   projects: [
     {
       title: 'Personal Website',
-      tech: 'React.js, Sass, React Hooks',
+      tech: 'React.js, CSS, React Hooks',
       desc: "The website you're currently browsing!",
       source: 'https://github.com/filahf/portfolio',
     },
@@ -15,7 +15,7 @@ export default {
     },
     {
       title: 'React Music Player',
-      tech: 'React.js, Sass, React Hooks',
+      tech: 'React.js, CSS, React Hooks',
       desc:
         'Barebone music player built with React. The purpose of the project was to get more familiar with the Web Audio API in HTML5',
       source: 'https://github.com/filahf/react-music-player',
@@ -23,11 +23,11 @@ export default {
     },
     {
       title: 'Wevid.online',
-      tech: 'React.js, Sass, Express, Websockets, Heroku',
+      tech: 'React.js, CSS, Express, Websockets',
       desc:
         'Synchronized YouTube player that let friends watch videos together regardless of geograpic location',
       live: 'https://wevid.online/',
-      source: 'https://github.com/filahf/youtube-together',
+      source: 'https://github.com/filahf/wevid-youtube-together',
     },
   ],
 };
